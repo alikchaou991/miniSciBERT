@@ -42,6 +42,7 @@ transformers_cache/
 
 # Raw data and generated dataset shards
 data/raw/
+data/processed/
 *.arrow
 *.parquet
 
